@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MilkMarketCounter/static/css/main.bb11542e.chunk.css",
+    "main.js": "/MilkMarketCounter/static/js/main.b107b633.chunk.js",
+    "main.js.map": "/MilkMarketCounter/static/js/main.b107b633.chunk.js.map",
+    "runtime-main.js": "/MilkMarketCounter/static/js/runtime-main.e001923c.js",
+    "runtime-main.js.map": "/MilkMarketCounter/static/js/runtime-main.e001923c.js.map",
+    "static/js/2.a9d43179.chunk.js": "/MilkMarketCounter/static/js/2.a9d43179.chunk.js",
+    "static/js/2.a9d43179.chunk.js.map": "/MilkMarketCounter/static/js/2.a9d43179.chunk.js.map",
+    "index.html": "/MilkMarketCounter/index.html",
+    "static/css/main.bb11542e.chunk.css.map": "/MilkMarketCounter/static/css/main.bb11542e.chunk.css.map",
+    "static/js/2.a9d43179.chunk.js.LICENSE.txt": "/MilkMarketCounter/static/js/2.a9d43179.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e001923c.js",
+    "static/js/2.a9d43179.chunk.js",
+    "static/css/main.bb11542e.chunk.css",
+    "static/js/main.b107b633.chunk.js"
+  ]
+}
