@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/MilkMarketCounter/static/css/main.a7bbdada.chunk.css",
-    "main.js": "/MilkMarketCounter/static/js/main.d88a510e.chunk.js",
-    "main.js.map": "/MilkMarketCounter/static/js/main.d88a510e.chunk.js.map",
+    "main.css": "/MilkMarketCounter/static/css/main.9bfd6a72.chunk.css",
+    "main.js": "/MilkMarketCounter/static/js/main.7a167908.chunk.js",
+    "main.js.map": "/MilkMarketCounter/static/js/main.7a167908.chunk.js.map",
     "runtime-main.js": "/MilkMarketCounter/static/js/runtime-main.e001923c.js",
     "runtime-main.js.map": "/MilkMarketCounter/static/js/runtime-main.e001923c.js.map",
-    "static/js/2.c2899540.chunk.js": "/MilkMarketCounter/static/js/2.c2899540.chunk.js",
-    "static/js/2.c2899540.chunk.js.map": "/MilkMarketCounter/static/js/2.c2899540.chunk.js.map",
+    "static/js/2.caf877ff.chunk.js": "/MilkMarketCounter/static/js/2.caf877ff.chunk.js",
+    "static/js/2.caf877ff.chunk.js.map": "/MilkMarketCounter/static/js/2.caf877ff.chunk.js.map",
     "index.html": "/MilkMarketCounter/index.html",
-    "static/css/main.a7bbdada.chunk.css.map": "/MilkMarketCounter/static/css/main.a7bbdada.chunk.css.map",
-    "static/js/2.c2899540.chunk.js.LICENSE.txt": "/MilkMarketCounter/static/js/2.c2899540.chunk.js.LICENSE.txt"
+    "static/css/main.9bfd6a72.chunk.css.map": "/MilkMarketCounter/static/css/main.9bfd6a72.chunk.css.map",
+    "static/js/2.caf877ff.chunk.js.LICENSE.txt": "/MilkMarketCounter/static/js/2.caf877ff.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e001923c.js",
-    "static/js/2.c2899540.chunk.js",
-    "static/css/main.a7bbdada.chunk.css",
-    "static/js/main.d88a510e.chunk.js"
+    "static/js/2.caf877ff.chunk.js",
+    "static/css/main.9bfd6a72.chunk.css",
+    "static/js/main.7a167908.chunk.js"
   ]
 }
